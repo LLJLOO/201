@@ -1,0 +1,6 @@
+import java.sql
+
+public class billing extends javax.swing.JFrame(
+public billing()
+{initComponents};
+)
